@@ -1,0 +1,57 @@
+Clipboard Data: 
+f.write("Processor: " + (platform.processor()) + '\n')Clipboard Data: 
+f.write("Processor: " + (platform.processor()) + '\n')Clipboard Data: 
+f.write("Processor: " + (platform.processor()) + '\n')Clipboard Data: 
+f.write("Processor: " + (platform.processor()) + '\n')Clipboard Data: 
+f.write("Processor: " + (platform.processor()) + '\n')Clipboard Data: 
+with open(encrypted_files[count], 'rb') as f:
+Clipboard Data: 
+input_file = '../cryptography/test.txt'
+
+output_file = '../cryptography/test.encrypted'
+
+Clipboard Data: 
+for encrypting_file in files_to_encrypt:Clipboard Data: 
+# Generating the key and writing it to a file
+
+def genwrite_key():
+
+    key = Fernet.generate_key()
+
+    with open("pass.key", "wb") as key_file:
+
+        key_file.write(key)Clipboard Data: 
+# Generating the key and writing it to a file
+
+def genwrite_key():
+
+    key = Fernet.generate_key()
+
+    with open("pass.key", "wb") as key_file:
+
+        key_file.write(key)Clipboard Data: 
+# Generating the key and writing it to a file
+
+def genwrite_key():
+
+    key = Fernet.generate_key()
+
+    with open("pass.key", "wb") as key_file:
+
+        key_file.write(key)Clipboard Data: 
+# Generating the key and writing it to a file
+
+def genwrite_key():
+
+    key = Fernet.generate_key()
+
+    with open("pass.key", "wb") as key_file:
+
+        key_file.write(key)Clipboard Data: 
+key = call_key()
+
+b = Fernet(key)
+
+decoded_slogan = b.decrypt(coded_slogan)
+
+print(decoded_slogan)
