@@ -1,0 +1,175 @@
+Public IP Address: 152.57.221.97Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.221.97Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.221.97Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.221.97Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.221.97Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.221.97Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.221.97Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.221.97Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
+Public IP Address: 152.57.219.69Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.19043
+Machine: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+Hostname: DESKTOP-HVME2IQ
+Private IP Address: 172.20.10.3
